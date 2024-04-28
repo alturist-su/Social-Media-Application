@@ -1,6 +1,6 @@
 # Building Social-Media-Application
-# Creating post, like post, saved post, repost, and add comments
-# Create reels
-# Update user profile, follow user and unfollow user
-# Real time messages
-# Video/Voice calling
+Creating posts, liking posts, saving posts, reposting, and adding comments,
+Create reels,
+Update user profile, follow user, and unfollow user,
+Real-time message,
+Video/Voice calling
