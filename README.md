@@ -6,13 +6,13 @@
 #### Video/Voice calling
 
 # Technologies
-### FRONTEND:
+### FRONTEND
 #### React: Popular javascript library for user interface
 #### Redux: Popular State Management Library
 #### Tailwind CSS: CSS
 #### Mui: CSS component library
 
-### BACKEND:
+### BACKEND
 #### Springboot: Java-based RESTful APIs
 #### Spring Security: For User authentication and authorization
 #### MySQL: Database
