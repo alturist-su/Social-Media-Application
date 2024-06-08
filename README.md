@@ -15,4 +15,4 @@
 #### BACKEND
 ##### Springboot: Java-based RESTful APIs
 ##### Spring Security: For User authentication and authorization
-##### MySQL: Database
+#### MySQL: Database
